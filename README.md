@@ -163,9 +163,9 @@ Clean & fast UI
 
 Avinash Vijay Satalkar
 Full Stack Developer (Django + React)
-GitHub: https://github.com/Aviii-24
+GitHub: [View](https://github.com/Aviii-24)
 
-LinkedIn: https://linkedin.com/in/avinash-satalkar
+LinkedIn: [View](https://www.linkedin.com/in/avinash-satalkar-10a934230/)
 
 📝 License
 
