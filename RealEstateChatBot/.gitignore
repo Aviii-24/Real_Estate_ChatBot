@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django database (if using sqlite)
+db.sqlite3
+*.sqlite3
+
+# Excel input files uploaded by users
+media/
+uploads/
+*.xlsx
+*.xls
+
+# Django static files (generated on collectstatic)
+static/
+staticfiles/
+
+# Virtual environment
+myenv/
+env/
+venv/
+
+# Environment variables with API keys
+.env
+*.env
+
+# Logs
+*.log
+
+# PyCharm / VSCode / Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
