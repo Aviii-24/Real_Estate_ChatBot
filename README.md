@@ -1,4 +1,5 @@
-🏡 Real Estate Market Analysis ChatBot
+# 🏡 **Real Estate Market Analysis ChatBot**
+
 Django + React + Excel Analysis + Google Gemini AI
 
 This project is a full-stack Real Estate Market Analysis ChatBot that allows users to upload an Excel file containing real-estate market data and receive:
